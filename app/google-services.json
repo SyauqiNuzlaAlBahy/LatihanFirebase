@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "586200256494",
+    "firebase_url": "https://pertemuansebelas-cecc4-default-rtdb.firebaseio.com",
+    "project_id": "pertemuansebelas-cecc4",
+    "storage_bucket": "pertemuansebelas-cecc4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:586200256494:android:c49fddf1e89227e88748ff",
+        "android_client_info": {
+          "package_name": "com.app.latihanfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "586200256494-tk76415b654odu8aaafmit2mrcan3vns.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXdAFa7RGqbPA9faiybzZmaKWrocz2gdw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "586200256494-tk76415b654odu8aaafmit2mrcan3vns.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
